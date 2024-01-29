@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanshaw
+- 👋 Hi, I’m @Priyanshu Raj
 - 👀 I’m interested in Frontend Developement 
 - 🌱 I’m currently learning React and NodeJs
 - 💞️ I’m looking to collaborate on ...
